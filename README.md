@@ -33,14 +33,6 @@ I build production-grade RAG systems and multi-agent architectures that turn com
 | 🚢 **LLMOps** | Model serving, tracing, evaluation, guardrails, cost and latency monitoring |
 | ⚡ **AI Automation** | LLM-powered workflows connecting APIs, data sources, and business tools |
 
-## 📌 Featured Projects
-
-<!-- Add your best RAG, agent, and fine-tuning repositories here, newest first. -->
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Vehicle Detection & Counting](https://github.com/Yousefabdelsalam/Vehicle-detection-counting-YOLO) | Detects and tracks cars and trucks, then counts vehicles entering and exiting, on video files or live camera streams | YOLO, OpenCV, Roboflow |
-| [Wuzzuf Job Scraper](https://github.com/Yousefabdelsalam/Wuzzuf-Project) | Scrapes job listings from Wuzzuf and exports the extracted data to CSV | Python, Jupyter |
 
 ## 💻 Tech Stack
 
